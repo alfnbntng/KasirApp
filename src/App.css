@@ -32,7 +32,15 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.sizehuruf {
+  font-size: 10px;
+  size: 12px;
+
+
 }
